@@ -1,0 +1,21 @@
+{
+  "name": "reviewbot",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An app to assist in the review process of is-a-dev",
+  "author": "is-a.dev",
+  "scripts": {
+    "server": "node index.js",
+    "lint": "standard"
+  },
+  "devDependencies": {
+    "smee-client": "^5.0.0",
+    "standard": "^17.1.2"
+  },
+  "dependencies": {
+    "@sentry/node": "^10.38.0",
+    "dotenv": "^17.3.1",
+    "octokit": "^5.0.5"
+  }
+}

@@ -1,0 +1,10 @@
+Dockerfile*
+docker-compose*
+.dockerignore
+.git
+.gitignore
+README.me
+LICENSE
+.env.example
+.github
+CONTRIBUTING.md
