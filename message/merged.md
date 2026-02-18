@@ -30,7 +30,7 @@ Just make sure you have added the domain to your website. You try to see if ther
 
 You have to add these in your webserver config by yourself. If you don't know how to add a domain to your webserver then either use a different method of hosting your website or search on a search engine on how to use the said webserver.
 
-Need help with your domain? If you have troubles setting up your domain, please create an issue or ask in the [Discord server](https://discord.gg/is-a-dev-830872854677422150) and we will try and help you as soon as possible!
+Need help with your domain? If you have some trouble setting up your domain, please create an issue or ask in the [Discord server](https://discord.gg/is-a-dev-830872854677422150) and we will try and help you as soon as possible!
 Made a mistake in the records? Don't worry, you can create a new pull request with the corrections.
 
 Thanks for reading the message and thanks for using is-a.dev! :heart:
