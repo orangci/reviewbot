@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! :wave:
 
 You've succesfully made a pull request! Here are some steps to do while waiting for a maintainer to review the pull request:
 

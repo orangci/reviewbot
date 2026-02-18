@@ -1,4 +1,4 @@
-# Pull Request Merged
+# Pull Request Merged :tada:
 
 ## What to do next
 

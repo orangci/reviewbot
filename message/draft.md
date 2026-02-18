@@ -1,7 +1,7 @@
 > [!NOTE]
 > Please be aware that you put the pull request on draft when you created the pull request. If this isn't intentional, please scroll down until you find the "Ready for review" button and click it. We recommend to not open draft pull requests since we would ignore it unless it's no longer on draft.
 
-# Hi there!
+# Hi there! :wave:
 
 You've succesfully made a pull request! Here are some steps to do while waiting for a maintainer to review the pull request:
 
